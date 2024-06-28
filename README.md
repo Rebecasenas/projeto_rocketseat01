@@ -4,9 +4,10 @@
 ## Introdução
 O projeto **DevLinks** é uma página pessoal desenvolvida por Rebeca Sena a partir de aulas ministradas pela Rocketseat, que permite acessar seus perfis nas redes sociais e portfólio online.
 
-<!-- 
-Este projeto é uma página pessoal que centraliza os links para os perfis sociais e portfólio online de Rebeca Sena. 
--->
+<div>
+  <img height="" src="https://github.com/Rebecasenas/projeto_rocketseat01/assets/164772427/562cdd66-7db1-4af2-a42d-e16aabcac121">
+  <img height="" src="https://github.com/Rebecasenas/projeto_rocketseat01/assets/164772427/fa249763-8476-4b45-b114-300fe871f241">
+</div>
 
 ## Detalhes Técnicos
 
